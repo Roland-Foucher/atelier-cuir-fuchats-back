@@ -23,7 +23,7 @@ app.use('/photos', (req, res, next) => {
     res.status(200).json(photos);
     next();
 })
-router.get('/test',(req,res) => {
+router.get('/test',(req,res, next) => {
   res.json({
       hello: "test!"
     });
