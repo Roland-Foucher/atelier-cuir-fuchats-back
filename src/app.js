@@ -11,15 +11,15 @@ const router = express.Router();
 
 app.use(express.json());
  
-app.use('/shoppingList', (req, res, next) => {
+router.get('/shoppingList', (req, res, next) => {
     res.status(200).json(itemToSale);
     next();
 })
-app.use('/news', (req, res, next) => {
-    res.status(200).json(news);
+router.get('/news', (req, res, next) => {
+    res.status(200).json({news : 'news'});
     next();
 })
-app.use('/photos', (req, res, next) => {
+router.get('/photos', (req, res, next) => {
     res.status(200).json(photos);
     next();
 })
@@ -30,7 +30,7 @@ router.get('/test',(req,res, next) => {
     next();
 
 })
-app.post('/contact', (req, res, next) => {
+router.post('/contact', (req, res, next) => {
     console.log(req.body);
     res.status(201).json(req.body);
     next();
