@@ -24,7 +24,7 @@ app.use('/photos', (req, res, next) => {
     next();
 })
 router.get('/test',(req,res, next) => {
-  res.json({
+  res.status(200).json({
       hello: "test!"
     });
     next();
