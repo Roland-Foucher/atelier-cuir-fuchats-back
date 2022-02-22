@@ -1,22 +1,22 @@
 
 
-const sacCarreMarron = 'http://localhost:3001/assets/sacCarreMarron/sac-cuir-artisanal-rectangle-marron.jpeg'
+const sacCarreMarron = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacCarreMarron/sac-cuir-artisanal-rectangle-marron.jpeg'
 
-const cartableMarron = 'http://localhost:3001/assets/cartableMarronClair/cartable-cuir-marron-clair.jpeg'
-const cartableMarronProfil = 'http://localhost:3001/assets/cartableMarronClair/cartable-cuir-marron-clair-profil.jpeg'
+const cartableMarron = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/cartableMarronClair/cartable-cuir-marron-clair.jpeg'
+const cartableMarronProfil = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/cartableMarronClair/cartable-cuir-marron-clair-profil.jpeg'
 
-const sacocheMarron = 'http://localhost:3001/assets/sacocheMarron/sacoche-homme-cuir-marron-artisanat-fuchats.jpeg'
-const sacocheMarronOuvert = 'http://localhost:3001/assets/sacocheMarron/sacoche-homme-cuir-marron-artisanat-ouverte.jpeg'
-const sacocheMarronProfil = 'http://localhost:3001/assets/sacocheMarron/sacoche-homme-cuir-marron-artisanat-profil.jpeg'
+const sacocheMarron = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacocheMarron/sacoche-homme-cuir-marron-artisanat-fuchats.jpeg'
+const sacocheMarronOuvert = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacocheMarron/sacoche-homme-cuir-marron-artisanat-ouverte.jpeg'
+const sacocheMarronProfil = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacocheMarron/sacoche-homme-cuir-marron-artisanat-profil.jpeg'
 
-const sacRouge = 'http://localhost:3001/assets/sacRouge/Petit-sac-rouge-rond-veau-dessus.jpeg'
-const sacRougeOuvert = 'http://localhost:3001/assets/sacRouge/Petit-sac-rouge-rond-veau-ouvert.jpeg'
-const sacRougeFace = 'http://localhost:3001/assets/sacRouge/Petit-sac-rouge-rond-veau-face.jpeg'
-const sacRougeRecul = 'http://localhost:3001/assets/sacRouge/Petit-sac-rouge-rond-veau-recul.png'
+const sacRouge = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacRouge/Petit-sac-rouge-rond-veau-dessus.jpeg'
+const sacRougeOuvert = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacRouge/Petit-sac-rouge-rond-veau-ouvert.jpeg'
+const sacRougeFace = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacRouge/Petit-sac-rouge-rond-veau-face.jpeg'
+const sacRougeRecul = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacRouge/Petit-sac-rouge-rond-veau-recul.png'
 
-const sacMarron = 'http://localhost:3001/assets/sacPascale/Sac-cuir-artisanal-marron-pascale-devant.jpeg'
-const sacMarronDos = 'http://localhost:3001/assets/sacPascale/Sac-cuir-artisanal-marron-pascale-dos.jpeg'
-const sacMarronOuvert = 'http://localhost:3001/assets/sacPascale/Sac-cuir-artisanal-marron-pascale-ouvert.jpeg'
+const sacMarron = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacPascale/Sac-cuir-artisanal-marron-pascale-devant.jpeg'
+const sacMarronDos = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacPascale/Sac-cuir-artisanal-marron-pascale-dos.jpeg'
+const sacMarronOuvert = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacPascale/Sac-cuir-artisanal-marron-pascale-ouvert.jpeg'
 
 
 const itemToSale = [
