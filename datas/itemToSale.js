@@ -18,7 +18,7 @@ const sacMarron = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacPas
 const sacMarronDos = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacPascale/Sac-cuir-artisanal-marron-pascale-dos.jpeg'
 const sacMarronOuvert = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacPascale/Sac-cuir-artisanal-marron-pascale-ouvert.jpeg'
 
-
+//
 const itemToSale = [
 	{
 		name: 'sac en cuir de veau rouge',

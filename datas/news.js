@@ -17,5 +17,5 @@ const news = [
         id : 2,
     }
 ];
-
+//
 module.exports = news;

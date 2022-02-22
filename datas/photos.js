@@ -19,7 +19,7 @@ const sacocheMarron = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sa
 const sacPascale = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacPascale/Sac-cuir-artisanal-marron-pascale-devant.jpeg'
 const sacRouge = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/sacRouge/Petit-sac-rouge-rond-veau-dessus.jpeg'
 
-
+//
 
 const photos = [
     {
