@@ -1,5 +1,5 @@
-const blanot = 'http://localhost:3001/assets/news/affiche-blanot-annule.jpeg'
-const michele = 'http://localhost:3001/assets/workshop/Michele-Foucher-Atelier-cuir-fuchats.jpeg'
+const blanot = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/news/affiche-blanot-annule.jpeg'
+const michele = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/workshop/Michele-Foucher-Atelier-cuir-fuchats.jpeg'
 
 const news = [
     {
