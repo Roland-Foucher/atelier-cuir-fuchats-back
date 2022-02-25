@@ -21,7 +21,7 @@ const sacMarronOuvert = 'https://atelier-cuir-fuchats-back.herokuapp.com/assets/
 //
 const itemToSale = [
 	{
-		name: 'sac en cuir de veau rouge',
+		name: 'Sac en cuir de veau rouge',
 		category: 'sac',
 		id: 1,
 		cover: sacRouge,
@@ -32,7 +32,7 @@ const itemToSale = [
 		comment : ['Taille : largeur 21cm, hauteur 15 cm, profondeur 5,5 cm.', 'Petit sac rouge vif, de forme arrondie, en cuir de veau souple et léger. On peut y glisser son téléphone, son porte-monnaie, et dans la poche intérieur plaquée, ses clés ou ses cartes', 'Fermeture à glissière sur le dessus.', 'Bandoulière réglable jusqu\'à 115 cm.']
 	},
     {
-		name: 'sac en cuir marron',
+		name: 'Sac en cuir marron',
 		category: 'sac',
 		id: 2,
 		cover: sacMarron,
@@ -43,7 +43,7 @@ const itemToSale = [
 		comment : ['Taille : largeur 33 cm, hauteur 32 cm, profondeur 9 cm', 'Grand sac en cuir à tannage végétal rigide. Peut se porter en sac à dos ou bandoulière grâce à sa bandoulière amovible et réglable en longueur, et à ses bretelles également amovibles.', 'Une poche extérieure de 2 cm d\'épaisseur.', 'Entièrement cousu main. Motifs sur le devant réalisés à l\'aide de matoirs.']
 	},
 	{
-		name: 'sac carré à tanage végétal',
+		name: 'Sac carré à tanage végétal',
 		category: 'sac',
 		id: 3,
 		cover: sacCarreMarron,

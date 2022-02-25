@@ -12,7 +12,7 @@ const news = [
     {
         title: 'L\'atelier cuir',
         alert : '',
-        comment : 'L\'Atelier Cuir des Fuchats vous accueil dans son atelier sur randez-vous. N\'hésitez pas à nous contacter pour venir voir nos articles!',
+        comment : 'L\'Atelier Cuir des Fuchats vous accueille dans son atelier sur rendez-vous. N\'hésitez pas à nous contacter pour venir voir nos articles!',
         cover : michele,
         id : 2,
     }
